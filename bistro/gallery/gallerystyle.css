@@ -1,0 +1,38 @@
+body {
+    background: #faf2ea url(../e12/images/bullseye.png) center;
+    margin: 0 10%;
+    font-family: sans-serif;
+    text-align: center;
+    }
+  
+  h1 {
+    color: #643cd1;
+    text-align: center;
+    font-family: serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    border-bottom:  5px dotted #4400ff;
+    margin-top: 30px;
+  }
+  
+  h2 {
+    color: #d1633c;
+    font-size: 1em;
+  }
+  a {
+    text-decoration: none;
+  }
+  a:link {
+    color: #ff2b7c;
+  }
+  a:visited {
+    color: #584785;
+  }
+  a:focus, a:hover {
+    color:#4400ff;
+    background-color: #e2d7ff;
+  }
+  a:active {
+    color: #ea00ff;
+    background-color: #e2d7ff;
+  }
