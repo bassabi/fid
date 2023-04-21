@@ -5,6 +5,7 @@ body {
 nav {
   margin-top: 0;
   text-align: center;
+  background-color: #e2d7ff;
   background-color: rgba(255, 211, 222, 0.5);
   border-top: 5px dotted #d13c75;
   border-bottom: 5px dotted #d13c75;
@@ -31,14 +32,15 @@ ul {
   margin: 0;
   padding: 0;
 }
-h1, h2 {	
-	color: #d13c75}
+
 h1 {
 	font-size: 1.5em;
+  color: #d13c75
 }
 h2 {
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 1em;
+  color: #d13c75
 }
 small {
 	color: #999;

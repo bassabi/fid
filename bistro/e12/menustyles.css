@@ -21,6 +21,7 @@ body {
     url(images/purpledot.png) left top repeat-y,
     url(images/purpledot.png) right top repeat-y,
     url(images/gooseshadow.png) 90% bottom no-repeat;
+    background-color: #e2d7ff;
     background-color: rgba(255, 255, 255, .5);
     /*background-color: rgba(255, 255, 255, .5);
     background-image: url(images/purpledot.png);
