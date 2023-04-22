@@ -1,0 +1,57 @@
+body {
+    background-color: #f4f8ff;
+    margin: 0 10%;
+    font-family: Georgia, serif;
+}
+h1 {
+    color: #3baf6f;
+    text-align: center;
+    font: bold 2em "Bruno Ace SC",Georgia, serif;
+    border: 5px ridge #3baf6f;
+    margin-top: 30px;
+}
+h2 {
+    color: #3baf6f;
+    font-family: sans-serif;
+    font-size: 1em;
+}
+em, i {
+    color: #3baf41;
+}
+strong {
+    color: #4a3cc7;
+}
+
+#navigation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #3baf6f;
+  }
+  
+#navigation li {
+    float: left;
+    border-right: 1px solid #bbb;
+ }
+ #navigation li:last-child {
+    float: right;
+    display: block;
+    color: white;
+    font-size: larger;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+ }
+  
+#navigation li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+ }
+  #navigation li a:hover {
+    background-color: #111;
+  }
+  

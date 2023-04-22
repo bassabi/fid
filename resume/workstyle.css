@@ -1,0 +1,13 @@
+body {
+    background-color:  #f4f8ff;
+    margin: 0 10%;
+    font-family: sans-serif;
+    text-align: center;
+    }
+  h1 {
+      color: #3baf6f;
+      text-align: center;
+      font: bold 2em "Bruno Ace SC",Georgia, serif;
+      border: 5px ridge #3baf6f;
+      margin-top: 30px;
+  }
